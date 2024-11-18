@@ -1,2 +1,2 @@
-# print-shop-inventory-made-easy
-An Application that allows print shops to create invoices quickly and efficiently.
+# Print Shop Application
+The goal of this application is to create a CMS base for small printshops that cuts out expensive and most importantly, cumbersome CMS softwares. I'm looking at you CoreBridge. 
